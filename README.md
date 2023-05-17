@@ -15,5 +15,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
+- 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 📫 You can reach me on Linkedin : [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sebastien-rahir/)
