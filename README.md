@@ -17,4 +17,4 @@
 
 - 🌱 I’m learning Data Science and Machine Learning.
 - 🔭 I’m looking for a job or an internship in Data Science and Machine Learning.
-- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/sebastien-rahir/)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/sebastien-rahir/)
